@@ -2,7 +2,10 @@
   padding: 30px;
   display: flex;
 }
-
+.pic{
+  width: 150px;
+  height: 150px;
+}
 .App > div {
   margin-right: 50px;
 }
